@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeeperFrog, aka Heather Scott
-- 👀 I’m interested in learning new peogramming languages and techniques
-- 🌱 I’m currently learning C++
+- 👀 I’m working on a new Agentic AI system Architecture called LANTAIS 
+- 🌱 I’m currently working with AI agents
 - 📫 You can reach me at Heather@Peeperfrog.com
 
 <!---
