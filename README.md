@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @PeeperFrog, aka Heather Scott
-- 👀 I’m working on a new Agentic AI system Architecture called PHENGIN-Core
-- 🌱 I’m currently working with AI agents
+
+  Check out my latest project:
+
+
+- 👀 I’m working on a few projects:
+- 1. A new Agentic AI system Architecture called PHENGIN-Core
+  2. Some stuff for Claude Desk -top integration
+
 - 📫 You can reach me at Heather@Peeperfrog.com
 
 <!---
