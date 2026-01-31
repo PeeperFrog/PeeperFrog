@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeeperFrog, aka Heather Scott
 
-  Check out my latest project:
+  Check out my latest project: gemini-image-mcp
 
 
 - 👀 I’m working on a few projects:
