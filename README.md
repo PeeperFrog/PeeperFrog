@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @PeeperFrog, aka Heather Scott
 
-  Check out my latest project: gemini-image-mcp
-
-
-- 👀 I’m working on a few projects:
-- 1. A new Agentic AI system Architecture called PHENGIN-Core
-  2. Some stuff for Claude Desk -top integration
+ - 👀 I’m working on some powerful tools for Claude Desktop integration
+- Check out peeperfrog-create-mcp
 
 - 📫 You can reach me at Heather@Peeperfrog.com
 
