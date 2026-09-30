@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PeeperFrog, aka Heather Scott
 
- - 👀 I’m working on some powerful tools for Claude Desktop integration
-- Check out peeperfrog-create-mcp
+ - 👀 I’m working on some powerful new AI tools
 
 - 📫 You can reach me at Heather@Peeperfrog.com
 
